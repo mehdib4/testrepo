@@ -7,8 +7,6 @@ package com.aisyhire.server;
 
 
 import lombok.*;
-
-
 import javax.persistence.Id;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Entity;
