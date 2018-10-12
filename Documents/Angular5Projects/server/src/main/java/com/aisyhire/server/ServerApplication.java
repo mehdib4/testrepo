@@ -9,7 +9,7 @@ import java.util.stream.Stream;
  *
  * @author Mehdi Benkirane
  */
-
+s
 @SpringBootApplication
 public class ServerApplication {
 
