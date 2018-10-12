@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import java.util.stream.Stream;
 /**
  *
- * @author Mehdi Benkirane
+ * @author Mehdi Benkirane TEST
  */
 
 @SpringBootApplication
